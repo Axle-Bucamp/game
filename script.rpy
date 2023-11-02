@@ -3,8 +3,8 @@
 # Déclarez sous cette ligne les images, avec l'instruction 'image'
 # ex: 
 image dwarf = Placeholder("bg")
-image dwarf tavern = Frame("generated_content_main_hall_dwarf.PNG")
-image right side emra neutral = Image("dark hair humain noble.png")
+image dwarf tavern = Frame("images/background/generated_content_main_hall_dwarf.PNG")
+image right side emra neutral = Image("images/background/dark hair humain noble.png")
 
 # Déclarez les personnages utilisés dans le jeu.
 define e = Character('Emra', color="#1506ec", image="emra")
